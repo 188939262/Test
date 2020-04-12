@@ -26,7 +26,7 @@ public class Test01 {
 //定义字符型变量
         char c = 'A';
         System.out.println(c);
-        System.out.println(c);
+
     }
 }
     
