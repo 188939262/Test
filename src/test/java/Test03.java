@@ -13,7 +13,7 @@ public class Test03 {
             sum += i;
         }
         System.out.println(sum);
-123213123
+
 
     }
 
